@@ -1,0 +1,7 @@
+-- join the relevant tables to find the category wise distribution of pizzas
+SELECT 
+	category,
+    count(name) as total
+FROM pizza_types
+GROUP BY category
+ORDER BY total DESC
