@@ -314,4 +314,4 @@ and business storytelling** — are directly applicable to roles in:
 If you found this project helpful or have feedback, feel free to reach out!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Nir-2015)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/NIRMALGANGODA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirmal-gangoda-399a7225a/)
